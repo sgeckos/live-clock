@@ -1,0 +1,24 @@
+body {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.date-time {
+  font-size: 14px;
+  padding: 20px;
+  border-radius: 8px;
+  color: #000000;
+  background: #ffffff;
+}
+
+.time {
+  font-size: 1.25em;
+  font-weight: bold;
+  color: #000000;
+}
+
+.date {
+  font-size: 1.05em;
+  padding: 5px;
+}
